@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract atmospheric digital art",
+      "imageUrl": "https://picsum.photos/seed/opus1/1920/1080",
+      "imageHint": "abstract dark"
+    },
+    {
+      "id": "project-1",
+      "description": "Sleek architectural design visualization",
+      "imageUrl": "https://picsum.photos/seed/opus2/800/1000",
+      "imageHint": "architecture minimal"
+    },
+    {
+      "id": "project-2",
+      "description": "Modern digital interface concept",
+      "imageUrl": "https://picsum.photos/seed/opus3/800/1000",
+      "imageHint": "interface design"
+    },
+    {
+      "id": "project-3",
+      "description": "Conceptual branding for a luxury studio",
+      "imageUrl": "https://picsum.photos/seed/opus4/800/1000",
+      "imageHint": "luxury branding"
+    },
+    {
+      "id": "project-4",
+      "description": "Immersive 3D environment",
+      "imageUrl": "https://picsum.photos/seed/opus5/800/1000",
+      "imageHint": "3d render"
+    },
+    {
+      "id": "client-logo-1",
+      "description": "Minimalist corporate logo placeholder",
+      "imageUrl": "https://picsum.photos/seed/logo1/200/100",
+      "imageHint": "minimalist logo"
+    }
+  ]
+}
