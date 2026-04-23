@@ -1,6 +1,7 @@
 
 import type {Metadata} from 'next';
 import './globals.css';
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata: Metadata = {
   title: 'Opus Nexus | Digital Exhibition',
@@ -22,6 +23,7 @@ export default function RootLayout({
       <body className="font-body antialiased bg-background text-foreground">
         <div className="noise-overlay" />
         {children}
+        <Analytics />
       </body>
     </html>
   );
