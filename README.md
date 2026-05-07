@@ -1,6 +1,6 @@
 # Opus Nexus | Digital Exhibition Studio
 
-Opus Nexus is an immersive, high-fidelity digital portfolio and exhibition platform designed for curated luxury experiences. It blends avant-garde art direction with high-performance technology to create a "sanctuary of digital artistry."
+Opus Nexus is an immersive, high-fidelity digital portfolio and exhibition platform designed for curated luxury experiences. It blends avant-garde art direction with high-performance technology to create a "sanctuary of digital artistry".
 
 ## 🌌 Project Overview
 
