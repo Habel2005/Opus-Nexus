@@ -40,7 +40,7 @@ This application serves as a flagship interactive portfolio for a creative studi
 
 ## 🎨 Design Philosophy
 
-"Crafting Silence in a World of Noise." Opus Nexus focuses on precision, soul, and engineering resonance between the user and the digital object. Every interaction is designed to be a conversation, not just a click.
+"Crafting Silence in a World of Noise." Opus Nexus focuses on precision, soul, and engineering resonance between the user and the digital object. Every interaction is designed to be a conversation, not just a click!
 
 
 
